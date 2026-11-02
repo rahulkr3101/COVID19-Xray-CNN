@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 """# 2) CLONING DATASET"""
 
 # CLONING THE DATASET FROM THE GITHUB REPOSITORY
-!git clone https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set.git
+!git clone https://github.com/rahulkr3101/rahulkr3101-Chext-X-ray-Images-Data-Set.git
 
 import os
 
