@@ -41,13 +41,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset isn't bundled in this repo (it's a few hundred MB of images). Grab it with:
-
-```bash
-git clone https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set.git
-```
-
-It should end up laid out as:
+The dataset is bundled in this repo under `DataSet/`, laid out as:
 
 ```
 DataSet/Data/
